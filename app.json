@@ -1,0 +1,39 @@
+{
+  "id": "62a0f6d0-c607-4a3b-a685-9a1fc32f7519",
+  "name": "Kohinoor_RoleCenter",
+  "publisher": "Pacific",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "4ba22a4e-fc4f-4f0b-9a57-5874849a493e",
+  "name": "Kohinoor_Retail",
+  "publisher": "Pacific",
+  "version": "1.0.0.195"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 51000,
+      "to": 51100
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
